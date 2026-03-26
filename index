@@ -52,7 +52,7 @@
         <div class="loading">جاري تحميل نظام التوقيع...</div>
         
         <iframe 
-            src="https://script.google.com/macros/s/AKfycbwhy9SXS4hFUw9Uxi1vRHzjaZjOQgQjL7w2rk2LXU5ACMDpCj0OwPBORJFsD7JGgvgr/exec" 
+            src="https://script.google.com/macros/s/AKfycbxJtjUFEe4ftdUlyktcA5FwOVwScV_9wCP0fv1CyK7mnQ8G2h-d25UE1srRvsAqP4X0LA/exec" 
             allowfullscreen="true"
             allow="geolocation; microphone; camera; display-capture"
             title="Signature System">
